@@ -10,3 +10,5 @@ cli 2 testing
 console 2 testing
 
 rebase update checking
+
+merge update checking
