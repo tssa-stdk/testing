@@ -12,3 +12,5 @@ console 2 testing
 rebase update checking
 
 merge update checking
+
+stash command checking
